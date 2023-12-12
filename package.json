@@ -11,6 +11,12 @@
     "core-js": "^3.8.3",
     "vue": "^3.2.13"
   },
+    "browserslist": [
+      "> 1%",
+      "last 2 versions",
+      "not dead",
+      "not ie 11"
+  ],
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^6.4.2",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
