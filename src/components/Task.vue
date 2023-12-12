@@ -1,5 +1,5 @@
 <template>
-    <Box>
+    <Box class="card">
         <div class="columns">
             <div class="column is-7">
                 {{ task.description || 'Tarefa sem descrição' }}

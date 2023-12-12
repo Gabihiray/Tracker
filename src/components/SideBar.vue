@@ -37,9 +37,13 @@ export default defineComponent({
 </script>
 
 <style scoped>
+.button {
+    background: var(--bg-card);
+    color: #fff
+}
 header {
     padding: 1rem;
-    background: #0d3b66;
+    background: #1B1B1B;
     width: 100%;
     height: 100vh;
     text-align: center;

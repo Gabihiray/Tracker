@@ -50,4 +50,11 @@ export default defineComponent({
   color: var(--text-primary);
   background-color: var(--bg-primary);
 }
+.input {
+  color: var(--text-primary);
+  background-color: var(--bg-card);
+}
+.input::placeholder {
+  color: var(--text-primary)
+}
 </style>
